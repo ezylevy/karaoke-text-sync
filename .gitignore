@@ -1,0 +1,4 @@
+tmpclaude-*
+.claude/
+__pycache__/
+*.pyc

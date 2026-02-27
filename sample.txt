@@ -1,0 +1,5 @@
+ENGLISH:
+Cats cannot taste sweet things. Their bodies simply do not have the special part that lets them taste sweetness at all!
+
+HEBREW:
+חֲתוּלִים לֹא יְכוֹלִים לִטְעֹם מָתוֹק. בַּגּוּף שֶׁלָּהֶם אֵין אֶת הַחֵלֶק שֶׁיּוֹדֵעַ לְהַרְגִּישׁ טַעַם מָתוֹק.
